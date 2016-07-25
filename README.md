@@ -2,7 +2,7 @@
 
 ## WTF?
 
-You know what is `hypothesis` python library is, right? Basically it generates whole lot of tests that can be used to fuzz your code for subtle bugs. So, this repo is my humble attempt to mine some CPython bugs by fuzzing.
+You know what `hypothesis` python library is, right? It`s main purpose is to generates whole lot of tests that can be used to fuzz your code for subtle bugs. So, this repo is my humble attempt to mine some CPython bugs by fuzzing.
 
 ## Installation
 ```bash
